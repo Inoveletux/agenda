@@ -1,0 +1,17 @@
+Créer un tableau dans le state d'Agenda.=> Check
+
+Créer une méthode qui va ajouter dans le state favCards 
+pour ajouter l'id de la carte d'Agenda dans le fichier Agenda.
+Binder cette méthode =>Double Check?
+
+la transmettre à Cards =>JE CROIS C CHECK
+Faire la meme chose vers ButtonFavorite.jsx
+Sur le click utiliser la méthode bindé 3 lignes plus haut => Check
+
+Actuellement, je setState sur agenda dans favCards, et j'écrase l'id.
+Faut ajouter l'id au click via une variable.
+
+Ensuite, faire une vérif pour savoir si il existe, et pis on verra.
+
+
+
